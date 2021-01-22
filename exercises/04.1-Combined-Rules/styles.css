@@ -1,8 +1,20 @@
 .myBox {
 	width: 50px;
 	height: 50px;
+<<<<<<< HEAD
 	padding: 10px 190px 50px 30px;
 	/* padding: 10px 30px 50px 190px; */
 	background: rgb(189, 189, 189) url(https://assets.breatheco.de/apis/img/funny/baby.jpg) no-repeat 100px;
+=======
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 190px;
+	padding-bottom: 50px;
+
+    background: rgb(189, 189, 189);
+	background-image: url(https://assets.breatheco.de/apis/img/funny/baby.jpg);
+	background-position-x: 100px;
+	background-repeat: no-repeat;
+>>>>>>> e836081d192c7c4d33e07bacbc80c8e63f74d6c3
 	background-size: contain;
 }
